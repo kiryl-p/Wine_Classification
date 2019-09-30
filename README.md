@@ -6,3 +6,7 @@ Diagnosed usability of a given data set;
 Processed feature engineering;  
 Maximized evaluation metrics by tuning hyperparameters using GridSearchCV technique;  
 Solved classification exercise to find a best-performing model.  
+
+
+A link to presentation:
+https://docs.google.com/presentation/d/1D_BVFvVriUS_REPhmtuQkmpnBNLsp5TA7hRFiRygQ_o/edit?usp=sharing
